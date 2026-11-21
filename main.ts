@@ -1,7 +1,6 @@
-// gta6-meme-x-01, round three.
+// gta6-meme-x-01, round two.
 //
-// The post is the entry: a GTA Airlines boarding pass meme on X
-// (SA cover girl header, flight delayed 4,813 days). This program only
+// The post is the entry: a court summons meme on X. This program only
 // ferries the post's address to the house, which reads the post itself.
 
 import { cpSync, mkdirSync, readFileSync } from 'node:fs';
